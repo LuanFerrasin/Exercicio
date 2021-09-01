@@ -1,0 +1,60 @@
+#conteudo{
+                width: 400px;
+                height: 300px;
+                margin-left: auto;
+                margin-right: auto;
+                border: solid 1px #000000;
+                text-align: center;
+               
+            }
+            
+            #titulo{
+                width: inherit;
+                height: 90px;
+                background-color: black;
+                color:white;
+                box-sizing: border-box;
+                padding-top: 25px;
+                font-size: 26px;
+                font-family: verdana;
+                word-spacing: 5px;
+                letter-spacing: 3px;
+            }
+            
+            #form{
+                width: inherit;
+                height: 185px;
+                padding-top: 20px;
+                box-sizing: border-box;
+                background-color:#FFF;
+            }
+            
+            input{
+                margin-bottom: 10px;
+                margin-left: 10px;
+            }
+            
+            #resultado{
+                width: inherit;
+                height: 35px;
+                background-color: black;
+                box-sizing: border-box;
+                padding-top: 2px;
+                font-family: cursive;
+                font-size: 20px;
+                font-weight: bold;
+                color: white;
+            }
+            body{
+                background-color: #631034;
+            }
+            .msgErro{
+            color:gold;
+            width: 600px;
+            height: 30px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+
+        }
